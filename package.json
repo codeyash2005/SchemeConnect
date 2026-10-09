@@ -1,0 +1,23 @@
+{
+  "name": "scheme-connect",
+  "version": "1.0.0",
+  "description": "SCHEME CONNECT - Government Scheme Awareness and Eligibility Checker for Indian and Maharashtra students",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "seed": "npm --prefix server run seed",
+    "client": "npm --prefix client dev",
+    "client:build": "npm --prefix client run build",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "scholarship",
+    "scheme-connect",
+    "mahadbt",
+    "nsp",
+    "eligibility-checker",
+    "college-project"
+  ],
+  "author": "",
+  "license": "ISC"
+}
